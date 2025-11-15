@@ -3,7 +3,7 @@
 ---
 ---
 
-## 🎯 **Aperçu**
+##  **Aperçu**
 
 Ce projet est une **application éducative de réalité augmentée** développée dans le cadre d'un TP universitaire. L'application permet de visualiser des organes humains en 3D grâce à la reconnaissance d'images avec Vuforia.
 
@@ -15,7 +15,7 @@ Ce projet est une **application éducative de réalité augmentée** développé
 
 ---
 
-## 🚀 **Fonctionnalités**
+##  **Fonctionnalités**
 
 ### **Reconnaissance d'Organes**
 - **Cœur** : Sphère rouge animée avec battement sonore
@@ -33,7 +33,7 @@ Ce projet est une **application éducative de réalité augmentée** développé
 
 ---
 
-## 🛠️ **Technologies Utilisées**
+##  **Technologies Utilisées**
 
 | Technologie | Version | Usage |
 |-------------|---------|-------|
@@ -69,7 +69,7 @@ AnatomieHumaine-RA/
 
 ---
 
-## ⚙️ **Installation**
+##  **Installation**
 
 ### **Prérequis**
 -  Unity 2022.3.62f1 ou version compatible
@@ -109,6 +109,10 @@ git clone https://github.com/hbenziat1318-cloud/AnatomieHumaine-RA.git
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/0aa9731d-2805-4c3f-bc5a-4b4053817ab7" />
 
 
+
+https://github.com/user-attachments/assets/5782d907-79c1-4c91-83f9-878b9e524a0e
+
+
 ---
 
 ##  **Encadrement & Auteur**
@@ -122,3 +126,4 @@ Encadrée par : Mme.DEROUECH oumaima
 
 
 ---
+
